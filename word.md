@@ -20,3 +20,4 @@
 - Appenders : Appenders
 - companion object : 짝 오브젝트 
 - factory method : 펙토리 메소드
+- handled by : -가 처리하다
